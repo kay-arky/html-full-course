@@ -6,7 +6,7 @@
 
 ### Author Links
 
-👋 Hello, I'm kay-arky.
+👋 Hello, I'm Davegray.
 
 ✅
 [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
